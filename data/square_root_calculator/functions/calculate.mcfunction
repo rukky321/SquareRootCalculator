@@ -17,7 +17,7 @@ scoreboard players set $left SquareRootCalculator 0
 scoreboard players set $right SquareRootCalculator 31623
 
 # find square root by bisection method / 2分法を用いて平方根を求める。
-function root_calculator:loop
+function square_root_calculator:loop
 
 scoreboard players operation $answer SquareRootCalculator = $average_ SquareRootCalculator
 scoreboard players operation $input SquareRootCalculator /= $10000 SquareRootCalculator
