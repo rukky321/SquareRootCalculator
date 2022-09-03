@@ -1,7 +1,7 @@
 #>square_root_calculator:calculate
 #
 #	@input score $input SquareRootCalculator 
-#		The value you want to fine square root of (up to 5 digits) / 平方根を求める値(最大5桁の数字)
+#		The value you want to find square root of (up to 5 digits) / 平方根を求める値(最大5桁の数字)
 #
 # @output score $answer SquareRootCalculator
 #		The Value obtained by multiplying square root of the input value by 100 / 入力値の平方根を100倍した値
