@@ -20,6 +20,8 @@
 このデータパックはminecraft version1.16以降での使用を前提としています。  
 また、動作確認済みのバージョンは1.18.1のみです。
 
+# ライセンス
+This datapack is released under the Apache License, Version 2.0, see LICENSE.
 
 
 
